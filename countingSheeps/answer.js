@@ -7,6 +7,7 @@ function countSheeps(arrayOfSheep) {
   }
   return result;
 }
+
 countSheeps([true,  true,  true,  false,
               true,  true,  true,  true ,
               true,  false, true,  false,

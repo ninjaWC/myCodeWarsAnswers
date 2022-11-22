@@ -10,4 +10,5 @@ var result = 0;
     return result;
   }
 };
+
 sum([1, 5.2, 4, 0, -1]);

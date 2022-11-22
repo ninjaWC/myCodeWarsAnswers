@@ -12,4 +12,5 @@ function setAlarm(employed, vacation){
     return false;
   }
 }
+
 setAlarm(true,false);
